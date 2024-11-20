@@ -1,5 +1,7 @@
 # 🌐 Atividade 4 - Desenvolvendo LP Completa | +praTi
 
+Link para o site: https://gustavo-cigaran.github.io/atividade4/
+
 ## Pré-requisitos
 
 Antes de começar, verifique se você possui as seguintes ferramentas instaladas em sua máquina:
