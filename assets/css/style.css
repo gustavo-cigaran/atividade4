@@ -1,0 +1,29 @@
+body {
+    font-family: "Roboto Flex", sans-serif;
+    height: 100vh;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-button-prev, .swiper-button-next{
+    color: #FFFFFF;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: #FFFFFF;
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide p {
+    color: #FFFFFF;
+    position: absolute;
+    z-index: 2;
+}
